@@ -13,7 +13,7 @@ This project implements an end-to-end data architecture solution for FlexiMart, 
 ---
 
 ## Repository Structure
-
+'''
 studentID-fleximart-data-architecture/
 ├── README.md
 ├── part1-database-etl/
@@ -34,7 +34,7 @@ studentID-fleximart-data-architecture/
     ├── warehouse_schema.sql
     ├── warehouse_data.sql
     └── analytics_queries.sql
-
+'''
 ---
 
 ## Technologies Used
@@ -79,3 +79,4 @@ This project strengthened my understanding of ETL pipelines, relational and NoSQ
 ## Submission
 
 https://github.com/Somesh_Kharbal/bitsom_ba_2507558-fleximart-data-architecture
+
