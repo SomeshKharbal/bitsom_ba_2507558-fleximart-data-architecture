@@ -13,7 +13,7 @@ This project implements an end-to-end data architecture solution for FlexiMart, 
 ---
 
 ## Repository Structure
-'''
+```
 studentID-fleximart-data-architecture/
 ├── README.md
 ├── part1-database-etl/
@@ -34,7 +34,7 @@ studentID-fleximart-data-architecture/
     ├── warehouse_schema.sql
     ├── warehouse_data.sql
     └── analytics_queries.sql
-'''
+```
 ---
 
 ## Technologies Used
@@ -67,7 +67,7 @@ mysql -u root -p fleximart_dw < part3-datawarehouse/analytics_queries.sql
 
 ### MongoDB Setup
 mongosh < part2-nosql/mongodb_operations.js
-
+```
 ## Key Learning 
 This project strengthened my understanding of ETL pipelines, relational and NoSQL database design, and data warehousing concepts. I learned how to design star schemas, write analytical SQL queries, and evaluate database technologies based on use cases.
 
@@ -79,4 +79,5 @@ This project strengthened my understanding of ETL pipelines, relational and NoSQ
 ## Submission
 
 https://github.com/Somesh_Kharbal/bitsom_ba_2507558-fleximart-data-architecture
+
 
